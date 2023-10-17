@@ -1,0 +1,13 @@
+﻿  racing game.cpp
+C:\Users\hp1\Downloads\olcConsoleGameEngine.h(759,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp1\Downloads\olcConsoleGameEngine.h(1099,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hp1\Downloads\olcConsoleGameEngine.h(1196,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\racing game\racing game.cpp(136,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\racing game\racing game.cpp(137,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\racing game\racing game.cpp(138,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\racing game\racing game.cpp(139,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\racing game\racing game.cpp(163,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\racing game\racing game.cpp(206,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\racing game\racing game.cpp(207,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\racing game\racing game.cpp(208,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  racing game.vcxproj -> D:\Proiecte\Aplicatii c++\racing game\racing-game\racing game\x64\Debug\racing game.exe
